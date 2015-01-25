@@ -1,4 +1,4 @@
-# A2 PHP OOP GR1 - Rendu Charles Barbier
+# A2 PHP OOP GR1 - Rendu Achéen Matisse
 
 ## Fonctionnalités
 
